@@ -34,9 +34,9 @@ public class SwaggerConfig {
 				"Servicio para venta celulares",
 				"1.0.0",
 				"Terminos de servicios",
-				new Contact("Hugo","https://www.google.com","alejandro.ovallerjs@uanl.edu.mx"),
-				"LICENSE",
-				"LICENSE URL",
+				new Contact("Christian","https://www.google.com","christian.mendozacrdn@uanl.edu.mx"),
+				"LICENCE",
+				"LICENCE URL",
 				Collections.emptyList()
 				);
 	}
